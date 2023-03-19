@@ -26,8 +26,17 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
+    "@testing-library/dom": "^9.0.1",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "@types/testing-library__jest-dom": "^5.14.5",
+    "@vitejs/plugin-react": "^3.1.0",
     "autoprefixer": "^10.4.14",
+    "jsdom": "^21.1.1",
     "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.2.0",
+    "vitest": "^0.29.3"
   }
 }
